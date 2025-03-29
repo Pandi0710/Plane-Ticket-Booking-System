@@ -1,0 +1,8 @@
+***Ticket Information***
+Seat Row: B
+Seat Number: 11
+Price: 180.0
+*** Person Information ***
+Name: q
+Surname: w
+Email: e

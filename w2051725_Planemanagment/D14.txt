@@ -1,0 +1,8 @@
+***Ticket Information***
+Seat Row: D
+Seat Number: 14
+Price: 180.0
+*** Person Information ***
+Name: f
+Surname: g
+Email: h
